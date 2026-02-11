@@ -1,0 +1,5 @@
+{
+  "name": "Balanço Pessoal",
+  "description": "Um sistema completo de contabilidade pessoal baseado em partidas dobradas para controle de ativos, passivos, receitas e despesas com relatórios profissionais.",
+  "requestFramePermissions": []
+}
